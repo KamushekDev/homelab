@@ -1,5 +1,7 @@
-# Raspberry pies
+# [Current configuration](Configuration.md)
 
+# How to set up :)
+## Raspberry pies
 - Install x64 Lite Raspberry pi os with [imager](https://www.raspberrypi.com/software/) on **ssd** ~or sd card~
 - Run pi with connected ssd, let it boot
 - Connect ssd to pc 
