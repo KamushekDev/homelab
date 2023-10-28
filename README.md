@@ -5,6 +5,10 @@
 - Connect ssd to pc 
   - open /boot/cmdline.txt
   - add `cgroup_memory=1 cgroup_enable=memory` to the end
+- ssh key authorization
+  - generate key with `ssh-keygen`
+  - copy generated pub key to every pi into file /home/pi/.ssh/authorized_keys
+  - `sudo service ssh restart`
 - microk8s
   - installation (https://microk8s.io/docs/install-raspberry-pi)
     ```
