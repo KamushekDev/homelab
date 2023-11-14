@@ -46,7 +46,7 @@
 
     [Service]
     ExecStart=
-    ExecStart=/usr/sbin/dockerd $DOCKER_OPTS
+    ExecStart=/usr/bin/dockerd $DOCKER_OPTS
 
     ### Lines below this comment will be discarded
 
