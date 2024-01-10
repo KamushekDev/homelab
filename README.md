@@ -1,4 +1,6 @@
-# [Current configuration](Configuration.md)
+![uptimekuma](https://cronitor.io/badges/qvJGmZ/production/Y8pbVaC1M32ta4kWoWFWIVExH3A.svg)
+
+### [Current configuration](Configuration.md)
 
 # How to set up :)
 ## Raspberry pies
